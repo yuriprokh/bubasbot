@@ -1,0 +1,253 @@
+{
+  "questions": [
+    {
+      "question": "Trotz d__ stark__ Regen__ gingen sie spazieren.",
+      "answers": [
+        "Trotz des starken Regens gingen sie spazieren.",
+        "Trotz dem starken Regen gingen sie spazieren."
+      ]
+    },
+    {
+      "question": "Er fährt mit ein__ modern__ Auto__ zur Arbeit.",
+      "answers": [
+        "Er fährt mit einem modernen Auto zur Arbeit."
+      ]
+    },
+    {
+      "question": "Er hat sich bei ein__ Bekannt__ (Frau) über die Situation erkundigt.",
+      "answers": [
+        "Er hat sich bei einer Bekannten (Frau) über die Situation erkundigt."
+      ]
+    },
+    {
+      "question": "Die Post liegt gegenüber d__ groß__ Bank__.",
+      "answers": [
+        "Die Post liegt gegenüber der großen Bank."
+      ]
+    },
+    {
+      "question": "Statt ein__ gebraucht__ Auto__ haben wir ein neues Auto gekauft.",
+      "answers": [
+        "Statt eines gebrauchten Autos haben wir ein neues Auto gekauft.",
+        "Statt einem gebrauchten Auto haben wir ein neues Auto gekauft."
+      ]
+    },
+    {
+      "question": "Er läuft ein__ lang__ Straße__ entlang.",
+      "answers": [
+        "Er läuft eine lange Straße entlang."
+      ]
+    },
+    {
+      "question": "Während ein__ kurz__ Pause__ habe ich ein Buch gelesen.",
+      "answers": [
+        "Während einer kurzen Pause habe ich ein Buch gelesen."
+      ]
+    },
+    {
+      "question": "Sie arbeitet gern mit modern__ Technik__, um ihre Projekte umzusetzen.",
+      "answers": [
+        "Sie arbeitet gern mit moderner Technik, um ihre Projekte umzusetzen."
+      ]
+    },
+    {
+      "question": "Dank ein__ großzügig__ Spende__ konnten wir helfen.",
+      "answers": [
+        "Dank einer großzügigen Spende konnten wir helfen."
+      ]
+    },
+    {
+      "question": "Ich kaufe das Geschenk für jemand__ Besonder__.",
+      "answers": [
+        "Ich kaufe das Geschenk für jemand Besonderen.",
+        "Ich kaufe das Geschenk für jemand Besonderes.",
+        "Ich kaufe das Geschenk für jemanden Besonderen."
+      ]
+    },
+    {
+      "question": "Sie kämpften gegen dies__ alt__ Gebäude__.",
+      "answers": [
+        "Sie kämpften gegen dieses alte Gebäude."
+      ]
+    },
+    {
+      "question": "Dank hart__ Arbeit__ hat sie ihre Ziele erreicht.",
+      "answers": [
+        "Dank harter Arbeit hat sie ihre Ziele erreicht."
+      ]
+    },
+    {
+      "question": "Um welch__ interessant__ Thema__ geht es gerade?",
+      "answers": [
+        "Um welches interessante Thema geht es gerade?"
+      ]
+    },
+    {
+      "question": "Wir gehen ohne unser__ neu__ Bekannt__ (Mann) ins Kino.",
+      "answers": [
+        "Wir gehen ohne unseren neuen Bekannten (Mann) ins Kino."
+      ]
+    },
+    {
+      "question": "Wir haben während d__ ruhig__ Nacht__ gut geschlafen.",
+      "answers": [
+        "Wir haben während der ruhigen Nacht gut geschlafen."
+      ]
+    },
+    {
+      "question": "Die Kinder spielen um d__ hoch__ Linde__.",
+      "answers": [
+        "Die Kinder spielen um die hohe Linde."
+      ]
+    },
+    {
+      "question": "Einen Döner bitte, mit all__ ohne scharf.",
+      "answers": [
+        "Einen Döner bitte, mit allem ohne scharf.",
+        "Einen Döner bitte, mit alles ohne scharf."
+      ]
+    },
+    {
+      "question": "Der Brief ist von mein__ alt__ Freundin__ aus München.",
+      "answers": [
+        "Der Brief ist von meiner alten Freundin aus München."
+      ]
+    },
+    {
+      "question": "Sie kocht immer mit frisch__ Gemüse__.",
+      "answers": [
+        "Sie kocht immer mit frischem Gemüse."
+      ]
+    },
+    {
+      "question": "Bezüglich d__ letzt__ Besprechung__ gibt es Neuigkeiten.",
+      "answers": [
+        "Bezüglich der letzten Besprechung gibt es Neuigkeiten."
+      ]
+    },
+    {
+      "question": "Er nimmt die Situation laut sein__ berühmt__ Zitat__ anders wahr.",
+      "answers": [
+        "Er nimmt die Situation laut seinem berühmten Zitat anders wahr.",
+        "Er nimmt die Situation laut seines berühmten Zitats anders wahr."
+      ]
+    },
+    {
+      "question": "Wir gehen bis zu__ nächst__ Station__.",
+      "answers": [
+        "Wir gehen bis zur nächsten Station."
+      ]
+    },
+    {
+      "question": "Er hat sich für frisch__ Obst__ entschieden, nicht für Süßigkeiten.",
+      "answers": [
+        "Er hat sich für frisches Obst entschieden, nicht für Süßigkeiten."
+      ]
+    },
+    {
+      "question": "Sie arbeitet bei mein__ Verwandt__, er heißt Markus, im Büro.",
+      "answers": [
+        "Sie arbeitet bei meinem Verwandten, er heißt Markus, im Büro."
+      ]
+    },
+    {
+      "question": "Wegen d__ mangelnd__ Budget__ wurde das Projekt verschoben.",
+      "answers": [
+        "Wegen des mangelnden Budgets wurde das Projekt verschoben.",
+        "Wegen dem mangelnden Budget wurde das Projekt verschoben."
+      ]
+    },
+    {
+      "question": "Wir fahren bis zu__ nächst__ Haltestelle__.",
+      "answers": [
+        "Wir fahren bis zur nächsten Haltestelle."
+      ]
+    },
+    {
+      "question": "Der Hund sprang durch d__ offen__ Tür__.",
+      "answers": [
+        "Der Hund sprang durch die offene Tür."
+      ]
+    },
+    {
+      "question": "Aufgrund d__ schlecht__ Wetter__ bleibt die Schule geschlossen.",
+      "answers": [
+        "Aufgrund des schlechten Wetters bleibt die Schule geschlossen."
+      ]
+    },
+    {
+      "question": "Wegen d__ schlecht__ Wetter__ wurde das Picknick abgesagt.",
+      "answers": [
+        "Wegen des schlechten Wetters wurde das Picknick abgesagt.",
+        "Wegen dem schlechten Wetter wurde das Picknick abgesagt."
+      ]
+    },
+    {
+      "question": "Mit kein__ ander__ Land__ ist Deutschland so eng verbunden wie mit Frankreich.",
+      "answers": [
+        "Mit keinem anderen Land ist Deutschland so eng verbunden wie mit Frankreich."
+      ]
+    },
+    {
+      "question": "Die Gesundheit ist von groß__ Bedeutung__ für ein__ glücklich__ Leben__.",
+      "answers": [
+        "Die Gesundheit ist von großer Bedeutung für ein glückliches Leben."
+      ]
+    },
+    {
+      "question": "Und ich finde es ok, Dinge wegen mein__ Äußer__ zu erreichen!",
+      "answers": [
+        "Und ich finde es ok, Dinge wegen meines Äußeren zu erreichen!",
+        "Und ich finde es ok, Dinge wegen meinem Äußeren zu erreichen!"
+      ]
+    },
+    {
+      "question": "Dieses Thema ist von größt__ Interesse__ für d__ Wissenschaftler__ (PL) weltweit.",
+      "answers": [
+        "Dieses Thema ist von größtem Interesse für die Wissenschaftler (PL) weltweit."
+      ]
+    },
+    {
+      "question": "Darf ich dich um ein__ klein__ Gefälligkeit__ bitten?",
+      "answers": [
+        "Darf ich dich um eine kleine Gefälligkeit bitten?"
+      ]
+    },
+    {
+      "question": "Morgen fange ich mit ein__ neu__ Diät__ an.",
+      "answers": [
+        "Morgen fange ich mit einer neuen Diät an."
+      ]
+    },
+    {
+      "question": "Sie gibt immer viel Geld für neu__ Kleidung__ aus.",
+      "answers": [
+        "Sie gibt immer viel Geld für neue Kleidung aus."
+      ]
+    },
+    {
+      "question": "In dem Gespräch geht es um d__ neu__ Patient__.",
+      "answers": [
+        "In dem Gespräch geht es um den neuen Patienten."
+      ]
+    },
+    {
+      "question": "Sie hat mich um etwas Unangemessen__ gebeten.",
+      "answers": [
+        "Sie hat mich um etwas Unangemessenes gebeten."
+      ]
+    },
+    {
+      "question": "Ich möchte nicht so viel für ein__ neu__ Handy__ ausgeben.",
+      "answers": [
+        "Ich möchte nicht so viel für ein neues Handy ausgeben."
+      ]
+    },
+    {
+      "question": "Am Wochenende fahren wir mit euer__ neu__ Elektroauto__ in die Berge.",
+      "answers": [
+        "Am Wochenende fahren wir mit eurem neuen Elektroauto in die Berge."
+      ]
+    }
+  ]
+}
